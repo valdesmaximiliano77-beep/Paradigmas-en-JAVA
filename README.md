@@ -1,6 +1,6 @@
 # Paradigmas de Programación en Java
 
-Este repositorio contiene ejercicios y ejemplos prácticos sobre los diferentes paradigmas de programación implementados en Java, desarrollados para profundizar en la lógica y estructura del lenguaje.
+Este repositorio contiene ejercicios y ejemplos prácticos sobre los diferentes paradigmas de programación implementados en Java, desarrollados para profundizar en la lógica y estructura del lenguaje. el andres es la cabra warisdis
 
 ## Contenidos
 * **Programación Orientada a Objetos (POO):** Uso de clases, herencia, polimorfismo y encapsulamiento.
